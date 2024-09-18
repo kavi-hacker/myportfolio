@@ -1,0 +1,13 @@
+.text-center{
+    text-align: center;
+}
+.display-inline-block{
+    display: inline-block;
+}
+.d-flex{
+    display: flex;
+}
+#dataForm{
+    width: 30%;
+    margin: 0 35%;
+}
